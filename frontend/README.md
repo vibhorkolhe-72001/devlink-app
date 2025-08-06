@@ -1,12 +1,9 @@
-# React + Vite
+DevLink is a full-stack web application for discovering, sharing, and managing developer profiles. Built with the MERN stack—MongoDB, Express.js, React, and Node.js—this project enables users to add, search, and view developer information through a modern, intuitive interface. The app features real-time updates, a clean UI with TailwindCSS, and RESTful API support for seamless front-end and back-end integration. Ideal for developer communities, project teams, or anyone looking to connect with tech talent.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+You can briefly highlight:
 
-Currently, two official plugins are available:
+Motivation: Provide a central directory for developers, making networking and collaboration easier.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Problem solved: Simplifies discovery and management of developer profiles.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Standout features: Fast search, user-friendly forms, responsive UI, API-driven architecture.
